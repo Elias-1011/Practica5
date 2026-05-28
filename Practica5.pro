@@ -5,7 +5,10 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-        particula.cpp
+        particula.cpp \
+    simulador.cpp
+
 
 HEADERS += \
-    particula.h
+    particula.h \
+    simulador.h
